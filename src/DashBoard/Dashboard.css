@@ -1,0 +1,18 @@
+.header{
+    height: 70px;
+    width: 100%;
+    background-color: #1655948b;
+    position: fixed;
+    top: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: aliceblue;
+}
+.header > button{
+    padding:10px;
+    border: oldlace;
+    border-radius: 14px;
+    
+}

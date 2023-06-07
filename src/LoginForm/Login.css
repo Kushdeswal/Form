@@ -1,0 +1,94 @@
+.mainDiv{
+    background: linear-gradient(84deg, rgb(77, 52, 251) 10%, rgb(25, 207, 241) 100%);
+    height:605px;
+}
+.mainDiv > .ragisterForm{
+    background-color:aliceblue;
+    height:480px;
+    width: 820px;
+    position: absolute;
+    top:65px;
+    right: 40px;
+    border-bottom-left-radius:235px;
+    border-top-left-radius:235px;
+    box-shadow: 2px -2px 21px aliceblue;
+
+}
+.mainDiv > .welcome{
+     position: absolute;
+    top:45px;
+    left:98px;
+    color: aliceblue;
+
+}
+.ragisterForm >.hadding> h1{
+    margin-top:70px;
+    margin-left:195px; 
+    color: rgb(18 13 13 / 89%);
+    font-size:48px;
+}
+.ragisterForm > .hadding>h2{
+    margin-top:40px;
+    margin-left:211px; 
+    color: rgb(18 13 13 / 89%);
+    font-size:45px;
+}
+.ragisterForm >.hadding> h3{
+    margin-top:22px;
+    margin-left:175px; 
+    color: rgb(18 13 13 / 89%);
+    font-size:55px;
+}
+.welcome > img{
+    height: 112px;
+    width: 151px;
+    margin-top: 54px;
+    margin-left: 9px; 
+}
+.welcome >p{
+    font-size:18px;
+    margin-top:-18px;
+    margin-left:-12px ;
+} 
+.welcome > h2{
+    margin-left:17px ;
+
+}
+.welcome > button{
+      width: 136px;
+    height: 32px;
+    background: rgb(240, 241, 242) 100%;
+    border-radius: 52px;
+    border: 0px;
+    color: rgb(6, 4, 4);
+    margin-top: 12px;
+    margin-left: 4px;
+    font-size: 16px;
+
+}
+
+.ragisterForm >form{
+    background-color:aliceblue;
+    height:140px;
+    width: 80px;
+    position: absolute;
+    top:175px;
+    right:436px;
+}
+
+.ragisterForm > .form1>form > input{
+   width:240px;
+   height:25px;
+}
+
+.ragisterForm > .form1> form> button{
+    width: 135px;
+    height: 34px;
+    background: rgb(16, 108, 228) 100%;
+    border-radius: 52px;
+    border: 0px;
+    color: white;
+    margin-top:40px;
+    margin-left:100px; 
+    font-size:15px;
+}
